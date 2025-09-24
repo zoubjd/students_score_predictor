@@ -124,6 +124,4 @@ Install with:
 pip install pandas numpy matplotlib scikit-learn
 ```
 
-```
-
 
