@@ -79,12 +79,17 @@ python student_score_predictor.py
 | Linear Regression     | \~2.53 | 0.20     | 20%          |
 | Polynomial Regression | \~3.23 | -0.20    | -20%         |
 
+![Single Feature Linear/Polynomial](plots/Figure_1.png)
+
 ### Multi-Feature (All predictors)
 
 | Model                 | MAE    | R² Score | Accuracy (%) |
 | --------------------- | ------ | -------- | ------------ |
 | Linear Regression     | \~0.40 | 0.88     | 88%          |
 | Polynomial Regression | \~8.26 | -6.93    | -693%        |
+
+![Multi-Feature Linear/Polynomial](plots/Figure_2.png)
+
 
 **Observation:**
 
