@@ -50,9 +50,6 @@ cd student-score-predictor
 
 2. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
 3. Run the script:
 
@@ -129,9 +126,4 @@ pip install pandas numpy matplotlib scikit-learn
 
 ```
 
----
 
-If you want, I can also **suggest a small “Results Plots” section with images** you can save in a `/plots` folder so your README looks visually professional on GitHub.  
-
-Do you want me to add that?
-```
